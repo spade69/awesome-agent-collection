@@ -1,11 +1,12 @@
 {
   "tasks": [
     {
-      "id": "219003b4",
+      "id": "08c5373d",
       "cron": "0 10 * * *",
-      "prompt": "使用 /browse 技能访问 GitHub Trending 页面（https://github.com/trending?since=weekly），获取过去一周的热门仓库列表。\n\n筛选标准：\n- 与 AI Agent、LLM、自动化、Claude/GPT/Gemini 工具链相关的仓库\n- Stars 增长显著（周增 500+）\n\n对每个符合条件的仓库：\n1. 检查它是否已在 /Users/linzhida/Work/zd-projects/awesome-agent-collection/README.md 中\n2. 如果是新的，访问仓库主页了解详情，按照 README.md 现有格式撰写分析（是什么、覆盖范围/架构、价值、注意事项）\n3. 将新仓库分析追加到 README.md 的目录表格和对应正文区域\n\n如果没有符合条件的新仓库，输出一行说明即可。",
-      "createdAt": 1775561081481,
-      "recurring": true
+      "prompt": "使用 /browse 技能访问 GitHub Trending 页面（https://github.com/trending?since=weekly），获取过去一周的热门仓库列表。\n\n筛选标准：\n- 与 AI Agent、LLM、自动化、Claude/GPT/Gemini 工具链相关的仓库\n- Stars 增长显著（周增 500+）\n\n对每个符合条件的仓库：\n1. 检查它是否已在 /Users/linzhida/Work/zd-projects/awesome-agent-collection/README.md 的表格中\n2. 如果是新的，访问仓库主页了解详情，然后：\n   a. 在 /Users/linzhida/Work/zd-projects/awesome-agent-collection/repos/ 下创建 `{repo-name}.md` 子页面，格式参考同目录下已有文件：元数据 + > **一句话** + 各分析章节\n   b. 在 README.md 的目录表格中追加一行：`| [repo-name](repos/repo-name.md) | 分类 | Stars | 一句话描述 |`\n\n如果没有符合条件的新仓库，输出一行说明即可。",
+      "createdAt": 1775563675778,
+      "recurring": true,
+      "lastFiredAt": 1775615080705
     }
   ]
 }
