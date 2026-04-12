@@ -12,6 +12,10 @@
 | [oh-my-claudecode](repos/oh-my-claudecode.md) | 编排框架 | 25.3k+ | 把 Claude Code 从单智能体变成多智能体平台，一句话自然语言启动 32 个专业 Agent 协作 |
 | [oh-my-codex](repos/oh-my-codex.md) | 编排框架 | 18.3k+ | oh-my-claudecode 的 Codex 版，同一套方法论（deep-interview → plan → team/ralph）面向 OpenAI 用户 |
 | [claude-howto](repos/claude-howto.md) | 学习资源 | 22.4k+ | 10 个模块带你从零到精通 Claude Code，每个特性配可直接 copy 用的模板 |
+| [deer-flow](repos/deer-flow.md) | SuperAgent 框架 | 60.7k+ | 字节跳动出品的超长周期 SuperAgent，子智能体 + 沙箱 + 长期记忆驱动跨小时级别任务，曾登顶 GitHub Trending #1 |
+| [openai-agents-python](repos/openai-agents-python.md) | Agent 框架 | 20.7k+ | OpenAI 官方轻量多 Agent SDK，Handoff + Guardrails + Human-in-the-Loop，100+ LLM 可接入 |
+| [adk-python](repos/adk-python.md) | Agent 框架 | 18.9k+ | Google 官方 Agent 开发套件，代码优先 + 模型无关，原生支持 A2A 协议和 Vertex AI 一键部署 |
+| [12-factor-agents](repos/12-factor-agents.md) | 最佳实践 | 19.2k+ | 仿照《12-Factor App》写给 LLM 工程师的十二条军规，教你把 Agent 从 Demo 变成生产级软件 |
 
 ---
 
