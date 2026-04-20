@@ -1,0 +1,118 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776654181192,
+  "projectRoot": "/Users/linzhida/Work/zd-projects/awesome-agent-collection",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "repos": {
+      "path": "repos",
+      "purpose": null,
+      "fileCount": 10,
+      "lastAccessed": 1776654181174,
+      "keyFiles": [
+        "12-factor-agents.md",
+        "adk-python.md",
+        "claude-howto.md",
+        "deer-flow.md",
+        "everything-claude-code.md"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 5,
+      "lastAccessed": 1776655011881,
+      "type": "file"
+    },
+    {
+      "path": "repos",
+      "accessCount": 1,
+      "lastAccessed": 1776010080743,
+      "type": "directory"
+    },
+    {
+      "path": "repos/oh-my-claudecode.md",
+      "accessCount": 1,
+      "lastAccessed": 1776010088331,
+      "type": "file"
+    },
+    {
+      "path": "repos/deer-flow.md",
+      "accessCount": 1,
+      "lastAccessed": 1776010706838,
+      "type": "file"
+    },
+    {
+      "path": "repos/openai-agents-python.md",
+      "accessCount": 1,
+      "lastAccessed": 1776010707034,
+      "type": "file"
+    },
+    {
+      "path": "repos/adk-python.md",
+      "accessCount": 1,
+      "lastAccessed": 1776010707232,
+      "type": "file"
+    },
+    {
+      "path": "repos/12-factor-agents.md",
+      "accessCount": 1,
+      "lastAccessed": 1776010733442,
+      "type": "file"
+    },
+    {
+      "path": "repos/nanobot.md",
+      "accessCount": 1,
+      "lastAccessed": 1776654998037,
+      "type": "file"
+    },
+    {
+      "path": "repos/openviking.md",
+      "accessCount": 1,
+      "lastAccessed": 1776654998275,
+      "type": "file"
+    },
+    {
+      "path": "repos/memvid.md",
+      "accessCount": 1,
+      "lastAccessed": 1776654998490,
+      "type": "file"
+    },
+    {
+      "path": "repos/open-swe.md",
+      "accessCount": 1,
+      "lastAccessed": 1776654998686,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
