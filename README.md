@@ -16,6 +16,10 @@
 | [openai-agents-python](repos/openai-agents-python.md) | Agent 框架 | 20.7k+ | OpenAI 官方轻量多 Agent SDK，Handoff + Guardrails + Human-in-the-Loop，100+ LLM 可接入 |
 | [adk-python](repos/adk-python.md) | Agent 框架 | 18.9k+ | Google 官方 Agent 开发套件，代码优先 + 模型无关，原生支持 A2A 协议和 Vertex AI 一键部署 |
 | [12-factor-agents](repos/12-factor-agents.md) | 最佳实践 | 19.2k+ | 仿照《12-Factor App》写给 LLM 工程师的十二条军规，教你把 Agent 从 Demo 变成生产级软件 |
+| [nanobot](repos/nanobot.md) | Agent 运行时 | 40.1k+ | 港大出品的极简个人 AI Agent，核心循环小到可阅读，支持 10+ IM 渠道 + Dream 记忆，每天多次迭代 |
+| [openviking](repos/openviking.md) | Agent 基础设施 | 22.6k+ | 字节火山引擎出品的 Agent Context 数据库，文件系统范式统一管理记忆/资源/Skill，RAG 可观测可调试 |
+| [memvid](repos/memvid.md) | Agent 基础设施 | 15.0k+ | 单文件替代 RAG 管道，Rust 实现，0.025ms 检索延迟，给 Agent 提供无需数据库的可移植长期记忆 |
+| [open-swe](repos/open-swe.md) | 编码 Agent | 9.6k+ | LangChain 开源的企业内部 Coding Agent——复刻 Stripe/Ramp 内部架构，Slack/Linear 触发 + 云沙箱 + 自动开 PR |
 
 ---
 
