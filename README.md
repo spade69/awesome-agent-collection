@@ -6,9 +6,13 @@
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [metagpt](repos/metagpt.md) | 67.4k+ | 用多 Agent 模拟一家软件公司——产品经理、架构师、工程师各司其职，一句需求自动生成可运行代码 |
+| [autogen](repos/autogen.md) | 57.4k+ | 微软出品的多 Agent 对话编排框架，LLM + 工具 + 人类在统一对话循环协作，业界引用最广的 Agent 框架 |
+| [crewai](repos/crewai.md) | 49.8k+ | 把多个 AI Agent 组建成"团队"，每人有角色和目标协作完成复杂任务，上手最快的多智能体框架 |
 | [hermes-agent](repos/hermes-agent.md) | 28.8k+ | 完成任务后自动把经验写成可复用 Skill，越用越聪明，且不绑定任何模型 |
 | [openai-agents-python](repos/openai-agents-python.md) | 20.7k+ | OpenAI 官方轻量多 Agent SDK，Handoff + Guardrails + Human-in-the-Loop，100+ LLM 可接入 |
 | [adk-python](repos/adk-python.md) | 18.9k+ | Google 官方 Agent 开发套件，代码优先 + 模型无关，原生支持 A2A 协议和 Vertex AI 一键部署 |
+| [eliza](repos/eliza.md) | 18.2k+ | 面向 Web3 和社交媒体的自主 Agent 运行时，一套代码让 AI 角色同时活跃在 Twitter、Discord 和链上 |
 
 ## SuperAgent / 长周期执行
 
@@ -21,6 +25,7 @@
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [langgraph](repos/langgraph.md) | 30.3k+ | 用有向图描述 Agent 工作流，状态机驱动 + 原生持久化 + Human-in-the-Loop，构建生产级 Agent 系统的基础设施 |
 | [oh-my-claudecode](repos/oh-my-claudecode.md) | 25.3k+ | 把 Claude Code 从单智能体变成多智能体平台，一句话自然语言启动 32 个专业 Agent 协作 |
 | [oh-my-codex](repos/oh-my-codex.md) | 18.3k+ | oh-my-claudecode 的 Codex 版，同一套方法论（deep-interview → plan → team/ralph）面向 OpenAI 用户 |
 

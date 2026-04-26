@@ -1,1 +1,3 @@
 .omc/
+.claude/settings.local.json
+.claude/last_update.txt
