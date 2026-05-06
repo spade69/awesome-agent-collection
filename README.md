@@ -10,9 +10,11 @@
 | [autogen](repos/autogen.md) | 57.4k+ | 微软出品的多 Agent 对话编排框架，LLM + 工具 + 人类在统一对话循环协作，业界引用最广的 Agent 框架 |
 | [crewai](repos/crewai.md) | 49.8k+ | 把多个 AI Agent 组建成"团队"，每人有角色和目标协作完成复杂任务，上手最快的多智能体框架 |
 | [hermes-agent](repos/hermes-agent.md) | 28.8k+ | 完成任务后自动把经验写成可复用 Skill，越用越聪明，且不绑定任何模型 |
+| [mastra](repos/mastra.md) | 23.6k+ | Gatsby 团队出品的 TypeScript 一站式 Agent 平台，工作流 + RAG + 评测全覆盖，Node.js 生态首选 |
 | [openai-agents-python](repos/openai-agents-python.md) | 20.7k+ | OpenAI 官方轻量多 Agent SDK，Handoff + Guardrails + Human-in-the-Loop，100+ LLM 可接入 |
 | [adk-python](repos/adk-python.md) | 18.9k+ | Google 官方 Agent 开发套件，代码优先 + 模型无关，原生支持 A2A 协议和 Vertex AI 一键部署 |
 | [eliza](repos/eliza.md) | 18.2k+ | 面向 Web3 和社交媒体的自主 Agent 运行时，一套代码让 AI 角色同时活跃在 Twitter、Discord 和链上 |
+| [pydantic-ai](repos/pydantic-ai.md) | 16.9k+ | Pydantic 团队出品，用类型系统约束 LLM 输入输出，让 Agent 开发像写普通 Python 一样有 IDE 补全和运行时校验 |
 
 ## SuperAgent / 长周期执行
 
@@ -20,6 +22,7 @@
 |------|-------|--------|
 | [deer-flow](repos/deer-flow.md) | 60.7k+ | 字节跳动出品的超长周期 SuperAgent，子智能体 + 沙箱 + 长期记忆驱动跨小时级别任务，曾登顶 GitHub Trending #1 |
 | [nanobot](repos/nanobot.md) | 40.1k+ | 港大出品的极简个人 AI Agent，核心循环小到可阅读，支持 10+ IM 渠道 + Dream 记忆，每天多次迭代 |
+| [gpt-researcher](repos/gpt-researcher.md) | 26.9k+ | 专为深度研究而生的自主 Agent，并行搜索多来源、消除偏见，自动生成带引用的长篇研究报告 |
 
 ## 编排框架
 
@@ -33,12 +36,15 @@
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [swe-agent](repos/swe-agent.md) | 19.1k+ | 普林斯顿出品的学术级 Coding Agent，输入 GitHub Issue 自动修复 Bug 提交 PR，SWE-bench 刷榜经典，NeurIPS 2024 |
+| [plandex](repos/plandex.md) | 15.3k+ | 专为大型项目设计的终端 Coding Agent，沙箱保护 + 版本回滚让 Agent 大胆修改复杂代码库 |
 | [open-swe](repos/open-swe.md) | 9.6k+ | LangChain 开源的企业内部 Coding Agent——复刻 Stripe/Ramp 内部架构，Slack/Linear 触发 + 云沙箱 + 自动开 PR |
 
 ## Agent 基础设施
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [composio](repos/composio.md) | 28.1k+ | 给 AI Agent 提供 1000+ 开箱即用工具的集成平台，统一 OAuth 认证 + 上下文管理，一行代码接入 GitHub/Slack/Notion |
 | [openviking](repos/openviking.md) | 22.6k+ | 字节火山引擎出品的 Agent Context 数据库，文件系统范式统一管理记忆/资源/Skill，RAG 可观测可调试 |
 | [memvid](repos/memvid.md) | 15.0k+ | 单文件替代 RAG 管道，Rust 实现，0.025ms 检索延迟，给 Agent 提供无需数据库的可移植长期记忆 |
 
