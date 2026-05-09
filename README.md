@@ -23,12 +23,14 @@
 | [deer-flow](repos/deer-flow.md) | 60.7k+ | 字节跳动出品的超长周期 SuperAgent，子智能体 + 沙箱 + 长期记忆驱动跨小时级别任务，曾登顶 GitHub Trending #1 |
 | [nanobot](repos/nanobot.md) | 40.1k+ | 港大出品的极简个人 AI Agent，核心循环小到可阅读，支持 10+ IM 渠道 + Dream 记忆，每天多次迭代 |
 | [gpt-researcher](repos/gpt-researcher.md) | 26.9k+ | 专为深度研究而生的自主 Agent，并行搜索多来源、消除偏见，自动生成带引用的长篇研究报告 |
+| [agenticseek](repos/agenticseek.md) | 26k+ | 完全本地运行的 Manus 替代品，零 API 费用，本地大模型驱动自主浏览网页、写代码、管理文件 |
 
 ## 编排框架
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
 | [langgraph](repos/langgraph.md) | 30.3k+ | 用有向图描述 Agent 工作流，状态机驱动 + 原生持久化 + Human-in-the-Loop，构建生产级 Agent 系统的基础设施 |
+| [sim](repos/sim.md) | 28.4k+ | 可视化拖拽构建 AI Agent 工作流的开源平台，无需编码即可编排多 Agent 协作流程并一键部署 |
 | [oh-my-claudecode](repos/oh-my-claudecode.md) | 25.3k+ | 把 Claude Code 从单智能体变成多智能体平台，一句话自然语言启动 32 个专业 Agent 协作 |
 | [oh-my-codex](repos/oh-my-codex.md) | 18.3k+ | oh-my-claudecode 的 Codex 版，同一套方法论（deep-interview → plan → team/ralph）面向 OpenAI 用户 |
 
@@ -36,14 +38,18 @@
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [gemini-cli](repos/gemini-cli.md) | 103k+ | Google 官方开源终端 AI Agent，100 万 token 超长上下文 + 个人免费，Claude Code 的直接竞品 |
 | [swe-agent](repos/swe-agent.md) | 19.1k+ | 普林斯顿出品的学术级 Coding Agent，输入 GitHub Issue 自动修复 Bug 提交 PR，SWE-bench 刷榜经典，NeurIPS 2024 |
 | [plandex](repos/plandex.md) | 15.3k+ | 专为大型项目设计的终端 Coding Agent，沙箱保护 + 版本回滚让 Agent 大胆修改复杂代码库 |
+| [opencode](repos/opencode.md) | 12.4k+ | Go 实现的极速终端 Coding Agent，单二进制无依赖，模型无关，启动秒级响应 |
 | [open-swe](repos/open-swe.md) | 9.6k+ | LangChain 开源的企业内部 Coding Agent——复刻 Stripe/Ramp 内部架构，Slack/Linear 触发 + 云沙箱 + 自动开 PR |
 
 ## Agent 基础设施
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [browser-use](repos/browser-use.md) | 93k+ | 让 AI Agent 真正"看懂"并操控浏览器，视觉 + DOM 双通道感知，Stars 最高的 Agent 浏览器自动化库 |
+| [ui-tars-desktop](repos/ui-tars-desktop.md) | 31k+ | 字节跳动出品的多模态 GUI Agent，直接"看"屏幕操控任意桌面/网页应用，无需 API，像人一样使用电脑 |
 | [composio](repos/composio.md) | 28.1k+ | 给 AI Agent 提供 1000+ 开箱即用工具的集成平台，统一 OAuth 认证 + 上下文管理，一行代码接入 GitHub/Slack/Notion |
 | [openviking](repos/openviking.md) | 22.6k+ | 字节火山引擎出品的 Agent Context 数据库，文件系统范式统一管理记忆/资源/Skill，RAG 可观测可调试 |
 | [memvid](repos/memvid.md) | 15.0k+ | 单文件替代 RAG 管道，Rust 实现，0.025ms 检索延迟，给 Agent 提供无需数据库的可移植长期记忆 |
