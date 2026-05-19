@@ -41,6 +41,17 @@
 | [oh-my-claudecode](repos/oh-my-claudecode.md) | 25.3k+ | 把 Claude Code 从单智能体变成多智能体平台，一句话自然语言启动 32 个专业 Agent 协作 |
 | [oh-my-codex](repos/oh-my-codex.md) | 18.3k+ | oh-my-claudecode 的 Codex 版，同一套方法论（deep-interview → plan → team/ralph）面向 OpenAI 用户 |
 
+## 应用生成 / CRUD 工具
+
+| 项目 | Stars | 一句话 |
+|------|-------|--------|
+| [nocodb](repos/nocodb.md) | 63k+ | 把任意 SQL 数据库变成 Airtable 式可视化界面，零前端代码获得完整 CRUD UI + 自动生成 REST/GraphQL API |
+| [jeecgboot](repos/jeecgboot.md) | 46.3k+ | 国内最完整的 AI 低代码企业系统生成平台，一句话描述即可生成前后端完整 CRUD 系统，Spring Boot + Vue3 技术栈 |
+| [appsmith](repos/appsmith.md) | 39.8k+ | 连接 25+ 数据库拖拽构建管理后台的开源平台，内置 AI 辅助生成查询和逻辑，企业内部工具首选 |
+| [tooljet](repos/tooljet.md) | 37.9k+ | AI 驱动的内部工具生成器，自然语言描述需求直接生成完整应用，内置工作流自动化引擎 |
+| [refine](repos/refine.md) | 34.7k+ | 专为 CRUD 管理后台设计的 React 框架，Headless 架构对接任意 UI 库和后端，AI 生成代码结构化可维护 |
+| [bolt-diy](repos/bolt-diy.md) | 19.4k+ | 浏览器内零配置 AI 全栈代码生成器，描述需求自动生成可运行应用，支持任意 LLM，bolt.new 的开源社区版 |
+
 ## 编码 Agent
 
 | 项目 | Stars | 一句话 |
