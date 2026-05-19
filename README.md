@@ -15,6 +15,7 @@
 | [adk-python](repos/adk-python.md) | 18.9k+ | Google 官方 Agent 开发套件，代码优先 + 模型无关，原生支持 A2A 协议和 Vertex AI 一键部署 |
 | [eliza](repos/eliza.md) | 18.2k+ | 面向 Web3 和社交媒体的自主 Agent 运行时，一套代码让 AI 角色同时活跃在 Twitter、Discord 和链上 |
 | [pydantic-ai](repos/pydantic-ai.md) | 16.9k+ | Pydantic 团队出品，用类型系统约束 LLM 输入输出，让 Agent 开发像写普通 Python 一样有 IDE 补全和运行时校验 |
+| [copilotkit](repos/copilotkit.md) | 31.5k+ | React/TypeScript 前端 Agent UI SDK，让 LLM 能感知并操作应用状态，自研 AG-UI 开放协议，把 Agent 能力内嵌进任何 Web 应用 |
 
 ## SuperAgent / 长周期执行
 
@@ -22,6 +23,8 @@
 |------|-------|--------|
 | [deer-flow](repos/deer-flow.md) | 60.7k+ | 字节跳动出品的超长周期 SuperAgent，子智能体 + 沙箱 + 长期记忆驱动跨小时级别任务，曾登顶 GitHub Trending #1 |
 | [nanobot](repos/nanobot.md) | 40.1k+ | 港大出品的极简个人 AI Agent，核心循环小到可阅读，支持 10+ IM 渠道 + Dream 记忆，每天多次迭代 |
+| [agentgpt](repos/agentgpt.md) | 36.1k+ | 浏览器内零门槛启动的自主 Agent，输入目标自动拆解任务并循环执行，2023 年 Agent 热潮引爆者，理解 Agent Loop 的最佳入门项目 |
+| [khoj](repos/khoj.md) | 34.6k+ | 隐私优先的可自托管 AI 第二大脑，搜索个人文档 + 网络问答 + 跨会话记忆，支持本地 LLM，Perplexity 的开源替代品 |
 | [gpt-researcher](repos/gpt-researcher.md) | 26.9k+ | 专为深度研究而生的自主 Agent，并行搜索多来源、消除偏见，自动生成带引用的长篇研究报告 |
 | [agenticseek](repos/agenticseek.md) | 26k+ | 完全本地运行的 Manus 替代品，零 API 费用，本地大模型驱动自主浏览网页、写代码、管理文件 |
 
@@ -32,6 +35,7 @@
 | [langflow](repos/langflow.md) | 148k+ | 基于 LangChain 的拖拽式 AI Agent 工作流平台，Stars 最高的 Agent 可视化工具，从原型到生产一站式 |
 | [dify](repos/dify.md) | 141k+ | 生产级 AI 应用开发与运营平台，Prompt 调试 + RAG + Agent 编排 + 监控全覆盖，企业落地首选 |
 | [flowise](repos/flowise.md) | 52k+ | 最易上手的可视化 AI Agent 构建工具，100+ 节点拖拽搭建，30 分钟从零到部署 |
+| [fastgpt](repos/fastgpt.md) | 28k+ | 以知识库和 RAG 精度为核心的可视化 AI 工作流平台，多阶段混合检索 + Rerank + 可视化编排，中文社区最活跃的 RAG 平台 |
 | [langgraph](repos/langgraph.md) | 30.3k+ | 用有向图描述 Agent 工作流，状态机驱动 + 原生持久化 + Human-in-the-Loop，构建生产级 Agent 系统的基础设施 |
 | [sim](repos/sim.md) | 28.4k+ | 可视化拖拽构建 AI Agent 工作流的开源平台，无需编码即可编排多 Agent 协作流程并一键部署 |
 | [oh-my-claudecode](repos/oh-my-claudecode.md) | 25.3k+ | 把 Claude Code 从单智能体变成多智能体平台，一句话自然语言启动 32 个专业 Agent 协作 |
@@ -52,9 +56,11 @@
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [firecrawl](repos/firecrawl.md) | 121.6k+ | 专为 AI Agent 设计的网页抓取与清洗 API，将任意网页转为干净 Markdown，一行代码让 Agent 获取实时网络知识 |
 | [browser-use](repos/browser-use.md) | 93k+ | 让 AI Agent 真正"看懂"并操控浏览器，视觉 + DOM 双通道感知，Stars 最高的 Agent 浏览器自动化库 |
 | [ragflow](repos/ragflow.md) | 80k+ | 基于深度文档理解的企业级 RAG 引擎，精准解析 PDF 表格/图表/复杂排版，每个答案精确溯源原文 |
 | [mem0](repos/mem0.md) | 56k+ | AI Agent 的通用记忆层，自动提取存储跨会话记忆，让任何 Agent 记住用户偏好和历史上下文，5 行代码集成 |
+| [letta](repos/letta.md) | 22.8k+ | 有状态 Agent 运行时平台（前身 MemGPT），工作记忆 + 归档记忆分层架构让 Agent 自主管理上下文，NeurIPS 2023 论文出品 |
 | [ui-tars-desktop](repos/ui-tars-desktop.md) | 31k+ | 字节跳动出品的多模态 GUI Agent，直接"看"屏幕操控任意桌面/网页应用，无需 API，像人一样使用电脑 |
 | [composio](repos/composio.md) | 28.1k+ | 给 AI Agent 提供 1000+ 开箱即用工具的集成平台，统一 OAuth 认证 + 上下文管理，一行代码接入 GitHub/Slack/Notion |
 | [openviking](repos/openviking.md) | 22.6k+ | 字节火山引擎出品的 Agent Context 数据库，文件系统范式统一管理记忆/资源/Skill，RAG 可观测可调试 |
