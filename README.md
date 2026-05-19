@@ -25,10 +25,13 @@
 | [gpt-researcher](repos/gpt-researcher.md) | 26.9k+ | 专为深度研究而生的自主 Agent，并行搜索多来源、消除偏见，自动生成带引用的长篇研究报告 |
 | [agenticseek](repos/agenticseek.md) | 26k+ | 完全本地运行的 Manus 替代品，零 API 费用，本地大模型驱动自主浏览网页、写代码、管理文件 |
 
-## 编排框架
+## 编排框架 / 低代码平台
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [langflow](repos/langflow.md) | 148k+ | 基于 LangChain 的拖拽式 AI Agent 工作流平台，Stars 最高的 Agent 可视化工具，从原型到生产一站式 |
+| [dify](repos/dify.md) | 141k+ | 生产级 AI 应用开发与运营平台，Prompt 调试 + RAG + Agent 编排 + 监控全覆盖，企业落地首选 |
+| [flowise](repos/flowise.md) | 52k+ | 最易上手的可视化 AI Agent 构建工具，100+ 节点拖拽搭建，30 分钟从零到部署 |
 | [langgraph](repos/langgraph.md) | 30.3k+ | 用有向图描述 Agent 工作流，状态机驱动 + 原生持久化 + Human-in-the-Loop，构建生产级 Agent 系统的基础设施 |
 | [sim](repos/sim.md) | 28.4k+ | 可视化拖拽构建 AI Agent 工作流的开源平台，无需编码即可编排多 Agent 协作流程并一键部署 |
 | [oh-my-claudecode](repos/oh-my-claudecode.md) | 25.3k+ | 把 Claude Code 从单智能体变成多智能体平台，一句话自然语言启动 32 个专业 Agent 协作 |
@@ -39,6 +42,7 @@
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
 | [gemini-cli](repos/gemini-cli.md) | 103k+ | Google 官方开源终端 AI Agent，100 万 token 超长上下文 + 个人免费，Claude Code 的直接竞品 |
+| [openhands](repos/openhands.md) | 74k+ | 最强开源 AI 软件工程师，能独立完成写代码/跑测试/修 Bug/操作终端全流程，Devin 最强开源替代 |
 | [swe-agent](repos/swe-agent.md) | 19.1k+ | 普林斯顿出品的学术级 Coding Agent，输入 GitHub Issue 自动修复 Bug 提交 PR，SWE-bench 刷榜经典，NeurIPS 2024 |
 | [plandex](repos/plandex.md) | 15.3k+ | 专为大型项目设计的终端 Coding Agent，沙箱保护 + 版本回滚让 Agent 大胆修改复杂代码库 |
 | [opencode](repos/opencode.md) | 12.4k+ | Go 实现的极速终端 Coding Agent，单二进制无依赖，模型无关，启动秒级响应 |
@@ -49,6 +53,8 @@
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
 | [browser-use](repos/browser-use.md) | 93k+ | 让 AI Agent 真正"看懂"并操控浏览器，视觉 + DOM 双通道感知，Stars 最高的 Agent 浏览器自动化库 |
+| [ragflow](repos/ragflow.md) | 80k+ | 基于深度文档理解的企业级 RAG 引擎，精准解析 PDF 表格/图表/复杂排版，每个答案精确溯源原文 |
+| [mem0](repos/mem0.md) | 56k+ | AI Agent 的通用记忆层，自动提取存储跨会话记忆，让任何 Agent 记住用户偏好和历史上下文，5 行代码集成 |
 | [ui-tars-desktop](repos/ui-tars-desktop.md) | 31k+ | 字节跳动出品的多模态 GUI Agent，直接"看"屏幕操控任意桌面/网页应用，无需 API，像人一样使用电脑 |
 | [composio](repos/composio.md) | 28.1k+ | 给 AI Agent 提供 1000+ 开箱即用工具的集成平台，统一 OAuth 认证 + 上下文管理，一行代码接入 GitHub/Slack/Notion |
 | [openviking](repos/openviking.md) | 22.6k+ | 字节火山引擎出品的 Agent Context 数据库，文件系统范式统一管理记忆/资源/Skill，RAG 可观测可调试 |
