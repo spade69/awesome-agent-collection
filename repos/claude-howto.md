@@ -2,7 +2,7 @@
 
 **仓库**：[luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
 **分类**：学习资源 / Claude Code 生态
-**Stars**：22,400+
+**Stars**：39.4k+
 **Forks**：2,700+
 **协议**：MIT
 **版本**：v2.3.0（2026 年 4 月，兼容 Claude Code 2.1+）

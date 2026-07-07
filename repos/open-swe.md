@@ -2,7 +2,7 @@
 
 **仓库**：[langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)
 **分类**：编码 Agent / 企业内部工具
-**Stars**：9,600+
+**Stars**：10.1k+
 **Forks**：1,100+
 **协议**：MIT
 **语言**：Python

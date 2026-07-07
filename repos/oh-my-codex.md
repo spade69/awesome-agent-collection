@@ -2,7 +2,7 @@
 
 **仓库**：[Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
 **分类**：编排框架 / OpenAI Codex 生态
-**Stars**：18,300+
+**Stars**：31.8k+
 **Forks**：1,700+
 **协议**：MIT
 **主语言**：TypeScript（91.9%）

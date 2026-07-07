@@ -2,7 +2,7 @@
 
 **仓库**：[affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 **分类**：工具配置 / Claude Code 生态
-**Stars**：140,000+
+**Stars**：226.8k+
 **Forks**：21,000+
 **贡献者**：170+
 **协议**：MIT

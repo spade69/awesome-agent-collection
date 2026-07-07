@@ -2,7 +2,7 @@
 
 **仓库**：[OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
 **分类**：编码 Agent / AI 软件工程师
-**Stars**：74,000+
+**Stars**：79.7k+
 **Forks**：8,500+
 **协议**：MIT
 **语言**：Python

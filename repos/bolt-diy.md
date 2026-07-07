@@ -2,7 +2,7 @@
 
 **仓库**：[stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy)
 **分类**：应用生成 / AI 全栈代码生成
-**Stars**：19,379+
+**Stars**：19.6k+
 **Forks**：10,396+
 **协议**：MIT
 **语言**：TypeScript

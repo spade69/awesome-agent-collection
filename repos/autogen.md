@@ -2,7 +2,7 @@
 
 **仓库**：[microsoft/autogen](https://github.com/microsoft/autogen)
 **分类**：多智能体框架 / 对话式 Agent 编排
-**Stars**：57,400+
+**Stars**：59.5k+
 **Forks**：8,600+
 **协议**：MIT / CC-BY-4.0
 **语言**：Python

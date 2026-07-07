@@ -2,7 +2,7 @@
 
 **仓库**：[khoj-ai/khoj](https://github.com/khoj-ai/khoj)
 **分类**：SuperAgent / 个人 AI 助手
-**Stars**：34,600+
+**Stars**：35.5k+
 **Forks**：2,200+
 **协议**：AGPL-3.0
 **语言**：Python

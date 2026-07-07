@@ -2,7 +2,7 @@
 
 **仓库**：[google/adk-python](https://github.com/google/adk-python)
 **分类**：Agent 框架 / 官方 SDK
-**Stars**：18,900+
+**Stars**：20.5k+
 **Forks**：3,200+
 **协议**：Apache 2.0
 **语言**：Python

@@ -2,7 +2,7 @@
 
 **仓库**：[memvid/memvid](https://github.com/memvid/memvid)
 **分类**：Agent 基础设施 / 记忆层
-**Stars**：15,000+
+**Stars**：15.7k+
 **Forks**：1,300+
 **协议**：Apache 2.0
 **语言**：Rust（核心）

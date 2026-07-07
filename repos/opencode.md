@@ -2,7 +2,7 @@
 
 **仓库**：[opencode-ai/opencode](https://github.com/opencode-ai/opencode)
 **分类**：编码 Agent / 终端工具
-**Stars**：12,400+
+**Stars**：13.3k+
 **Forks**：600+
 **协议**：MIT
 **语言**：Go

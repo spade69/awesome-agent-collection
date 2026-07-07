@@ -2,7 +2,7 @@
 
 **仓库**：[mastra-ai/mastra](https://github.com/mastra-ai/mastra)
 **分类**：Agent 框架 / TypeScript 全栈
-**Stars**：23,600+
+**Stars**：25.9k+
 **Forks**：1,900+
 **协议**：Elastic-2.0
 **语言**：TypeScript

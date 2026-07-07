@@ -2,7 +2,7 @@
 
 **仓库**：[langflow-ai/langflow](https://github.com/langflow-ai/langflow)
 **分类**：Agent 编排 / 可视化低代码平台
-**Stars**：148,000+
+**Stars**：151.3k+
 **Forks**：16,000+
 **协议**：MIT
 **语言**：Python + TypeScript

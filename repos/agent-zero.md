@@ -2,7 +2,7 @@
 
 **仓库**：[agent0ai/agent-zero](https://github.com/agent0ai/agent-zero)
 **分类**：SuperAgent / 通用自主 Agent
-**Stars**：18,200+
+**Stars**：18.4k+
 **Forks**：3,600+
 **协议**：自定义（NOASSERTION，见仓库 LICENSE）
 **语言**：Python

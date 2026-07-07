@@ -2,7 +2,7 @@
 
 **仓库**：[ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 **分类**：应用生成 / AI 驱动内部工具构建器
-**Stars**：37,919+
+**Stars**：38.2k+
 **Forks**：5,069+
 **协议**：AGPL-3.0
 **语言**：JavaScript

@@ -2,7 +2,7 @@
 
 **仓库**：[langgenius/dify](https://github.com/langgenius/dify)
 **分类**：Agent 编排 / 生产级应用平台
-**Stars**：141,000+
+**Stars**：148k+
 **Forks**：21,000+
 **协议**：Apache-2.0（附加条款）
 **语言**：TypeScript + Python

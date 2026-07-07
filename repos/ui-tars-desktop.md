@@ -2,7 +2,7 @@
 
 **仓库**：[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 **分类**：多模态 Agent / 桌面自动化
-**Stars**：31,000+
+**Stars**：37.8k+
 **Forks**：3,000+
 **协议**：Apache-2.0
 **语言**：TypeScript

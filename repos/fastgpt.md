@@ -2,7 +2,7 @@
 
 **仓库**：[labring/FastGPT](https://github.com/labring/FastGPT)
 **分类**：编排框架 / 低代码平台
-**Stars**：28,000+
+**Stars**：28.8k+
 **Forks**：7,000+
 **协议**：Custom（源码可见，非 OSI）
 **语言**：TypeScript

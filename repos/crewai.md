@@ -2,7 +2,7 @@
 
 **仓库**：[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
 **分类**：多智能体框架 / 角色协作编排
-**Stars**：49,800+
+**Stars**：55.1k+
 **Forks**：6,800+
 **协议**：MIT
 **语言**：Python

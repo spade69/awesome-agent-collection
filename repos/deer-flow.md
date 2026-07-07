@@ -2,7 +2,7 @@
 
 **仓库**：[bytedance/deer-flow](https://github.com/bytedance/deer-flow)
 **分类**：SuperAgent 框架 / 长周期自主执行
-**Stars**：60,700+
+**Stars**：76.3k+
 **Forks**：7,700+
 **协议**：MIT
 **语言**：Python 3.12 + Node.js 22

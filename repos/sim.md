@@ -2,7 +2,7 @@
 
 **仓库**：[simstudioai/sim](https://github.com/simstudioai/sim)
 **分类**：Agent 编排 / 可视化工作流平台
-**Stars**：28,400+
+**Stars**：29k+
 **Forks**：2,900+
 **协议**：Apache-2.0
 **语言**：TypeScript

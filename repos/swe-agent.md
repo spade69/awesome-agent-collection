@@ -2,7 +2,7 @@
 
 **仓库**：[SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
 **分类**：编码 Agent / GitHub Issue 自动修复
-**Stars**：19,100+
+**Stars**：19.7k+
 **Forks**：2,100+
 **协议**：MIT
 **语言**：Python

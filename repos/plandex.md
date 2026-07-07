@@ -2,7 +2,7 @@
 
 **仓库**：[plandex-ai/plandex](https://github.com/plandex-ai/plandex)
 **分类**：编码 Agent / 大型项目终端工具
-**Stars**：15,300+
+**Stars**：15.5k+
 **Forks**：1,100+
 **协议**：AGPL-3.0（云服务）/ 自托管免费
 **语言**：Go

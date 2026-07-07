@@ -2,7 +2,7 @@
 
 **仓库**：[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 **分类**：Agent 框架 / 前端 Agent UI
-**Stars**：31,500+
+**Stars**：35.8k+
 **Forks**：4,000+
 **协议**：MIT
 **语言**：TypeScript

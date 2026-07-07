@@ -2,7 +2,7 @@
 
 **仓库**：[Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 **分类**：编排框架 / Claude Code 生态
-**Stars**：25,300+
+**Stars**：37.5k+
 **Forks**：2,300+
 **协议**：MIT
 **npm**：`oh-my-claude-sisyphus`
