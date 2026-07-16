@@ -2,7 +2,7 @@
 
 **仓库**：[ComposioHQ/composio](https://github.com/ComposioHQ/composio)
 **分类**：Agent 基础设施 / 工具集成平台
-**Stars**：29.1k+
+**Stars**：29.3k+
 **Forks**：5,000+
 **协议**：AGPL-3.0
 **语言**：TypeScript / Python

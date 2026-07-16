@@ -2,7 +2,7 @@
 
 **仓库**：[mem0ai/mem0](https://github.com/mem0ai/mem0)
 **分类**：Agent 基础设施 / 记忆层
-**Stars**：60.3k+
+**Stars**：61k+
 **Forks**：5,800+
 **协议**：Apache-2.0
 **语言**：Python

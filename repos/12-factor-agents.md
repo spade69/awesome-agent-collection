@@ -2,7 +2,7 @@
 
 **仓库**：[humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents)
 **分类**：最佳实践 / 工程指南
-**Stars**：24k+
+**Stars**：24.3k+
 **Forks**：1,400+
 **协议**：Apache 2.0（代码）/ CC BY-SA 4.0（内容）
 **语言**：TypeScript

@@ -2,7 +2,7 @@
 
 **仓库**：[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)
 **分类**：Agent 编排框架 / 状态机驱动
-**Stars**：36.7k+
+**Stars**：37.4k+
 **Forks**：5,200+
 **协议**：MIT
 **语言**：Python（+ TypeScript 版）

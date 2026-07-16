@@ -2,7 +2,7 @@
 
 **仓库**：[nocodb/nocodb](https://github.com/nocodb/nocodb)
 **分类**：应用生成 / 数据库转电子表格 UI
-**Stars**：63.8k+
+**Stars**：64k+
 **Forks**：4,700+
 **协议**：Custom（源码可用，非 OSI 开源）
 **语言**：TypeScript

@@ -2,7 +2,7 @@
 
 **仓库**：[microsoft/agent-framework](https://github.com/microsoft/agent-framework)
 **分类**：Agent 框架
-**Stars**：12.1k+
+**Stars**：12.2k+
 **Forks**：2,000+
 **协议**：MIT
 **语言**：Python（同时提供 .NET）

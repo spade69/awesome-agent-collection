@@ -2,7 +2,7 @@
 
 **仓库**：[deepset-ai/haystack](https://github.com/deepset-ai/haystack)
 **分类**：编排框架 / RAG + Agent
-**Stars**：25.8k+
+**Stars**：25.9k+
 **Forks**：2,900+
 **协议**：Apache-2.0
 **语言**：Python

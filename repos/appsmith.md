@@ -2,7 +2,7 @@
 
 **仓库**：[appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 **分类**：应用生成 / 低代码内部工具
-**Stars**：40.3k+
+**Stars**：40.4k+
 **Forks**：4,572+
 **协议**：Apache-2.0
 **语言**：TypeScript

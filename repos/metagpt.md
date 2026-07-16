@@ -2,7 +2,7 @@
 
 **仓库**：[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 **分类**：多智能体框架 / AI 软件公司模拟
-**Stars**：69.2k+
+**Stars**：69.4k+
 **Forks**：8,500+
 **协议**：MIT
 **语言**：Python

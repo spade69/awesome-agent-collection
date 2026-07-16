@@ -2,7 +2,7 @@
 
 **仓库**：[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 **分类**：Agent 框架 / 类型安全优先
-**Stars**：18.3k+
+**Stars**：18.6k+
 **Forks**：1,300+
 **协议**：MIT
 **语言**：Python

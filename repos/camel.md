@@ -2,7 +2,7 @@
 
 **仓库**：[camel-ai/camel](https://github.com/camel-ai/camel)
 **分类**：Agent 框架 / 多智能体
-**Stars**：17.3k+
+**Stars**：17.4k+
 **Forks**：1,900+
 **协议**：Apache-2.0
 **语言**：Python

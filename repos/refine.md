@@ -2,7 +2,7 @@
 
 **仓库**：[refinedev/refine](https://github.com/refinedev/refine)
 **分类**：应用生成 / React CRUD 框架
-**Stars**：35.2k+
+**Stars**：35.3k+
 **Forks**：3,048+
 **协议**：MIT
 **语言**：TypeScript

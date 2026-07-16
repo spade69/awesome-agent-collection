@@ -2,7 +2,7 @@
 
 **仓库**：[volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 **分类**：Agent 基础设施 / Context 数据库
-**Stars**：26.4k+
+**Stars**：26.8k+
 **Forks**：1,600+
 **协议**：开源（协议见仓库）
 **语言**：Python + Go + Rust

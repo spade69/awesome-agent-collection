@@ -2,7 +2,7 @@
 
 **仓库**：[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 **分类**：Agent 编排 / 可视化低代码平台
-**Stars**：54.4k+
+**Stars**：54.7k+
 **Forks**：27,000+
 **协议**：Apache-2.0
 **语言**：TypeScript

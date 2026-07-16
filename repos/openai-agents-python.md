@@ -2,7 +2,7 @@
 
 **仓库**：[openai/openai-agents-python](https://github.com/openai/openai-agents-python)
 **分类**：Agent 框架 / 官方 SDK
-**Stars**：27.7k+
+**Stars**：27.9k+
 **Forks**：3,400+
 **协议**：MIT
 **语言**：Python 3.10+

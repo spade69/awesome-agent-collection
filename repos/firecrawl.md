@@ -2,7 +2,7 @@
 
 **仓库**：[firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 **分类**：Agent 基础设施 / 网页抓取与清洗
-**Stars**：146.8k+
+**Stars**：151.7k+
 **Forks**：7,400+
 **协议**：AGPL-3.0
 **语言**：TypeScript

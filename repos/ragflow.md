@@ -2,7 +2,7 @@
 
 **仓库**：[infiniflow/ragflow](https://github.com/infiniflow/ragflow)
 **分类**：Agent 基础设施 / 深度理解 RAG 引擎
-**Stars**：84.5k+
+**Stars**：85.2k+
 **Forks**：8,200+
 **协议**：Apache-2.0
 **语言**：Python

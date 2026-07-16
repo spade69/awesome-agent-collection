@@ -2,7 +2,7 @@
 
 **仓库**：[Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode)
 **分类**：编码 Agent
-**Stars**：25.7k+
+**Stars**：26.3k+
 **Forks**：2,800+
 **协议**：MIT
 **语言**：TypeScript

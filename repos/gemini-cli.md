@@ -2,7 +2,7 @@
 
 **仓库**：[google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 **分类**：编码 Agent / 终端 AI 助手
-**Stars**：105.8k+
+**Stars**：106k+
 **Forks**：10,000+
 **协议**：Apache-2.0
 **语言**：TypeScript

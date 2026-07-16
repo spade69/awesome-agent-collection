@@ -2,7 +2,7 @@
 
 **仓库**：[asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
 **分类**：资源收集 / AI 透明度
-**Stars**：52.2k+
+**Stars**：58.2k+
 **协议**：-
 
 > **一句话**：想知道 Claude/GPT/Gemini 背后在偷偷说什么？这里全有。

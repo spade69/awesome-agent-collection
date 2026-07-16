@@ -2,7 +2,7 @@
 
 **仓库**：[elizaOS/eliza](https://github.com/elizaOS/eliza)
 **分类**：自主 Agent 运行时 / Web3 + 社交媒体
-**Stars**：18.7k+
+**Stars**：18.8k+
 **Forks**：5,500+
 **协议**：MIT
 **语言**：TypeScript

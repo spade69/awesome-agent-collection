@@ -2,7 +2,7 @@
 
 **仓库**：[Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 **分类**：最佳实践 / 学习资源
-**Stars**：122.2k+
+**Stars**：122.3k+
 **Forks**：18,000+
 **协议**：Apache-2.0
 **语言**：Python

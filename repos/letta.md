@@ -2,7 +2,7 @@
 
 **仓库**：[letta-ai/letta](https://github.com/letta-ai/letta)
 **分类**：Agent 基础设施 / 有状态 Agent 平台
-**Stars**：23.7k+
+**Stars**：23.8k+
 **Forks**：2,400+
 **协议**：Apache-2.0
 **语言**：Python

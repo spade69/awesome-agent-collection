@@ -2,7 +2,7 @@
 
 **仓库**：[jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot)
 **分类**：应用生成 / AI 低代码企业平台
-**Stars**：47k+
+**Stars**：47.1k+
 **Forks**：15,998+
 **协议**：Apache-2.0
 **语言**：Java

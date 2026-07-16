@@ -2,7 +2,7 @@
 
 **仓库**：[browser-use/browser-use](https://github.com/browser-use/browser-use)
 **分类**：Agent 基础设施 / 浏览器自动化
-**Stars**：103.2k+
+**Stars**：105k+
 **Forks**：10,000+
 **协议**：MIT
 **语言**：Python

@@ -2,7 +2,7 @@
 
 **仓库**：[HKUDS/nanobot](https://github.com/HKUDS/nanobot)
 **分类**：Agent 运行时 / 个人 AI 助手
-**Stars**：45.1k+
+**Stars**：45.7k+
 **Forks**：7,000+
 **协议**：MIT
 **语言**：Python 3.11+
