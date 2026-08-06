@@ -19,11 +19,13 @@
 | [pydantic-ai](repos/pydantic-ai.md) | 18.6k+ | Pydantic 团队出品，用类型系统约束 LLM 输入输出，让 Agent 开发像写普通 Python 一样有 IDE 补全和运行时校验 |
 | [copilotkit](repos/copilotkit.md) | 36.1k+ | React/TypeScript 前端 Agent UI SDK，让 LLM 能感知并操作应用状态，自研 AG-UI 开放协议，把 Agent 能力内嵌进任何 Web 应用 |
 | [agent-framework](repos/agent-framework.md) | 12.2k+ | 微软新一代 Agent 框架，把 AutoGen 的多智能体研究成果与 Semantic Kernel 的企业级工程能力合二为一，官方钦定的编排与部署平台 |
+| [agentscope](repos/agentscope.md) | 28.6k+ | 阿里巴巴官方多 Agent 框架，主打"可见、可理解、可信任"，每一步推理和工具调用可视化追踪，专为生产级可调试性设计 |
 
 ## SuperAgent / 长周期执行
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [autogpt](repos/autogpt.md) | 185.8k+ | 2023 年引爆"自主 Agent"概念的元老级项目，如今演进为可视化搭建 + 托管运行的 Agent 平台，描述目标自动拆解执行 |
 | [lobehub](repos/lobehub.md) | 79.9k+ | 把自己当成"首席 Agent 运营官"，像招聘、编排员工一样组织一批 AI Agent 7×24 协同运转，前身是知名开源应用 Lobe Chat |
 | [deer-flow](repos/deer-flow.md) | 77.2k+ | 字节跳动出品的超长周期 SuperAgent，子智能体 + 沙箱 + 长期记忆驱动跨小时级别任务，曾登顶 GitHub Trending #1 |
 | [nanobot](repos/nanobot.md) | 45.7k+ | 港大出品的极简个人 AI Agent，核心循环小到可阅读，支持 10+ IM 渠道 + Dream 记忆，每天多次迭代 |
@@ -33,6 +35,7 @@
 | [gpt-researcher](repos/gpt-researcher.md) | 28.3k+ | 专为深度研究而生的自主 Agent，并行搜索多来源、消除偏见，自动生成带引用的长篇研究报告 |
 | [agenticseek](repos/agenticseek.md) | 26.6k+ | 完全本地运行的 Manus 替代品，零 API 费用，本地大模型驱动自主浏览网页、写代码、管理文件 |
 | [agent-zero](repos/agent-zero.md) | 18.4k+ | 给 Agent 一整套 Linux 系统，单容器含桌面 + 插件中枢，Agent 可现场写代码造工具，把电脑当作可编程通用能力平台 |
+| [eigent](repos/eigent.md) | 14.8k+ | CAMEL-AI 出品的开源 Cowork 桌面应用，本地部署一支多 Agent 员工团队并行处理任务，Claude Cowork / Codex 的免费本地替代品 |
 
 ## 编排框架 / 低代码平台
 
@@ -63,11 +66,14 @@
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
+| [pi](repos/pi.md) | 84.3k+ | 不做"又一个编码 Agent"，而是把 Agent Loop、多模型统一 API 和终端 UI 拆成独立可复用的包，自建 Coding Agent 直接拿工具箱 |
 | [gemini-cli](repos/gemini-cli.md) | 106k+ | Google 官方开源终端 AI Agent，100 万 token 超长上下文 + 个人免费，Claude Code 的直接竞品 |
 | [openhands](repos/openhands.md) | 81k+ | 最强开源 AI 软件工程师，能独立完成写代码/跑测试/修 Bug/操作终端全流程，Devin 最强开源替代 |
+| [open-interpreter](repos/open-interpreter.md) | 67.7k+ | 老牌"终端 ChatGPT 解释器"重生，Rust 重写核心 Harness 专为开放权重模型（Kimi K3 等）优化，低成本获得 Codex 级体验 |
 | [cline](repos/cline.md) | 64.7k+ | 既能装进 VS Code 又能跑在终端的开源编码 Agent，Plan/Act 双模式每步改动人工确认，安全透明，Cursor/Copilot 的开源竞品 |
 | [goose](repos/goose.md) | 51.3k+ | 能真正动手安装依赖、执行命令、编辑代码的可扩展 AI Agent，超越"代码补全"，Rust 实现、模型无关、原生 MCP 扩展 |
 | [kilocode](repos/kilocode.md) | 26.3k+ | VS Code/JetBrains/CLI 全覆盖的开源编码 Agent，500+ 模型任选、任务中途可切换，按模型商原价零加价计费 |
+| [qwen-code](repos/qwen-code.md) | 26.8k+ | 阿里 Qwen 官方终端编码 Agent，框架与模型同源演进不锁厂商，原生打通 OpenAI/Anthropic/Gemini/Qwen 及本地模型 |
 | [swe-agent](repos/swe-agent.md) | 19.8k+ | 普林斯顿出品的学术级 Coding Agent，输入 GitHub Issue 自动修复 Bug 提交 PR，SWE-bench 刷榜经典，NeurIPS 2024 |
 | [plandex](repos/plandex.md) | 15.5k+ | 专为大型项目设计的终端 Coding Agent，沙箱保护 + 版本回滚让 Agent 大胆修改复杂代码库 |
 | [opencode](repos/opencode.md) | 13.5k+ | Go 实现的极速终端 Coding Agent，单二进制无依赖，模型无关，启动秒级响应 |
