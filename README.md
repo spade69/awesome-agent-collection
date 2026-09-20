@@ -6,109 +6,117 @@
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
-| [langchain](repos/langchain.md) | 141.9k+ | LLM 应用开发的事实标准框架，把模型、工具、记忆、检索拼装成 Agent 的"乐高底座"，生态覆盖最广、集成最全 |
-| [metagpt](repos/metagpt.md) | 69.4k+ | 用多 Agent 模拟一家软件公司——产品经理、架构师、工程师各司其职，一句需求自动生成可运行代码 |
-| [autogen](repos/autogen.md) | 59.8k+ | 微软出品的多 Agent 对话编排框架，LLM + 工具 + 人类在统一对话循环协作，业界引用最广的 Agent 框架 |
-| [crewai](repos/crewai.md) | 55.6k+ | 把多个 AI Agent 组建成"团队"，每人有角色和目标协作完成复杂任务，上手最快的多智能体框架 |
-| [hermes-agent](repos/hermes-agent.md) | 215.7k+ | 完成任务后自动把经验写成可复用 Skill，越用越聪明，且不绑定任何模型 |
-| [mastra](repos/mastra.md) | 26.2k+ | Gatsby 团队出品的 TypeScript 一站式 Agent 平台，工作流 + RAG + 评测全覆盖，Node.js 生态首选 |
-| [openai-agents-python](repos/openai-agents-python.md) | 27.9k+ | OpenAI 官方轻量多 Agent SDK，Handoff + Guardrails + Human-in-the-Loop，100+ LLM 可接入 |
-| [adk-python](repos/adk-python.md) | 20.6k+ | Google 官方 Agent 开发套件，代码优先 + 模型无关，原生支持 A2A 协议和 Vertex AI 一键部署 |
-| [eliza](repos/eliza.md) | 18.8k+ | 面向 Web3 和社交媒体的自主 Agent 运行时，一套代码让 AI 角色同时活跃在 Twitter、Discord 和链上 |
-| [camel](repos/camel.md) | 17.4k+ | 最早提出"角色扮演多 Agent 对话"的学术级框架，专注研究智能体 Scaling Law，也是合成数据生成与世界模拟利器 |
-| [pydantic-ai](repos/pydantic-ai.md) | 18.6k+ | Pydantic 团队出品，用类型系统约束 LLM 输入输出，让 Agent 开发像写普通 Python 一样有 IDE 补全和运行时校验 |
-| [copilotkit](repos/copilotkit.md) | 36.1k+ | React/TypeScript 前端 Agent UI SDK，让 LLM 能感知并操作应用状态，自研 AG-UI 开放协议，把 Agent 能力内嵌进任何 Web 应用 |
-| [agent-framework](repos/agent-framework.md) | 12.2k+ | 微软新一代 Agent 框架，把 AutoGen 的多智能体研究成果与 Semantic Kernel 的企业级工程能力合二为一，官方钦定的编排与部署平台 |
-| [agentscope](repos/agentscope.md) | 28.6k+ | 阿里巴巴官方多 Agent 框架，主打"可见、可理解、可信任"，每一步推理和工具调用可视化追踪，专为生产级可调试性设计 |
-| [spring-ai-alibaba](repos/spring-ai-alibaba.md) | 10.8k+ | 面向 Java 开发者的 Agentic AI 框架，基于 Spring AI 扩展，让企业 Java 团队不用切语言就能接入大模型、做 Agent 编排 |
+| [langchain](repos/langchain.md) | 146.7k+ | LLM 应用开发的事实标准框架，把模型、工具、记忆、检索拼装成 Agent 的"乐高底座"，生态覆盖最广、集成最全 |
+| [metagpt](repos/metagpt.md) | 70.5k+ | 用多 Agent 模拟一家软件公司——产品经理、架构师、工程师各司其职，一句需求自动生成可运行代码 |
+| [autogen](repos/autogen.md) | 61.1k+ | 微软出品的多 Agent 对话编排框架，LLM + 工具 + 人类在统一对话循环协作，业界引用最广的 Agent 框架 |
+| [crewai](repos/crewai.md) | 58.8k+ | 把多个 AI Agent 组建成"团队"，每人有角色和目标协作完成复杂任务，上手最快的多智能体框架 |
+| [hermes-agent](repos/hermes-agent.md) | 247.2k+ | 完成任务后自动把经验写成可复用 Skill，越用越聪明，且不绑定任何模型 |
+| [mastra](repos/mastra.md) | 28.2k+ | Gatsby 团队出品的 TypeScript 一站式 Agent 平台，工作流 + RAG + 评测全覆盖，Node.js 生态首选 |
+| [openai-agents-python](repos/openai-agents-python.md) | 29.6k+ | OpenAI 官方轻量多 Agent SDK，Handoff + Guardrails + Human-in-the-Loop，100+ LLM 可接入 |
+| [adk-python](repos/adk-python.md) | 21.6k+ | Google 官方 Agent 开发套件，代码优先 + 模型无关，原生支持 A2A 协议和 Vertex AI 一键部署 |
+| [eliza](repos/eliza.md) | 19.4k+ | 面向 Web3 和社交媒体的自主 Agent 运行时，一套代码让 AI 角色同时活跃在 Twitter、Discord 和链上 |
+| [camel](repos/camel.md) | 17.7k+ | 最早提出"角色扮演多 Agent 对话"的学术级框架，专注研究智能体 Scaling Law，也是合成数据生成与世界模拟利器 |
+| [pydantic-ai](repos/pydantic-ai.md) | 20.1k+ | Pydantic 团队出品，用类型系统约束 LLM 输入输出，让 Agent 开发像写普通 Python 一样有 IDE 补全和运行时校验 |
+| [copilotkit](repos/copilotkit.md) | 37.4k+ | React/TypeScript 前端 Agent UI SDK，让 LLM 能感知并操作应用状态，自研 AG-UI 开放协议，把 Agent 能力内嵌进任何 Web 应用 |
+| [agent-framework](repos/agent-framework.md) | 13.6k+ | 微软新一代 Agent 框架，把 AutoGen 的多智能体研究成果与 Semantic Kernel 的企业级工程能力合二为一，官方钦定的编排与部署平台 |
+| [agentscope](repos/agentscope.md) | 32k+ | 阿里巴巴官方多 Agent 框架，主打"可见、可理解、可信任"，每一步推理和工具调用可视化追踪，专为生产级可调试性设计 |
+| [spring-ai-alibaba](repos/spring-ai-alibaba.md) | 10.9k+ | 面向 Java 开发者的 Agentic AI 框架，基于 Spring AI 扩展，让企业 Java 团队不用切语言就能接入大模型、做 Agent 编排 |
+| [agno](repos/agno.md) | 42.3k+ | 把 Agent 从“库”升级为可运行可管理的平台，多智能体 + 记忆 + RAG + 监控一体，前身 Phidata，Python 生态高人气全栈框架 |
 
 ## SuperAgent / 长周期执行
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
-| [autogpt](repos/autogpt.md) | 185.8k+ | 2023 年引爆"自主 Agent"概念的元老级项目，如今演进为可视化搭建 + 托管运行的 Agent 平台，描述目标自动拆解执行 |
-| [lobehub](repos/lobehub.md) | 79.9k+ | 把自己当成"首席 Agent 运营官"，像招聘、编排员工一样组织一批 AI Agent 7×24 协同运转，前身是知名开源应用 Lobe Chat |
-| [deer-flow](repos/deer-flow.md) | 77.2k+ | 字节跳动出品的超长周期 SuperAgent，子智能体 + 沙箱 + 长期记忆驱动跨小时级别任务，曾登顶 GitHub Trending #1 |
-| [anything-llm](repos/anything-llm.md) | 65.8k+ | 一体化本地优先 AI 应用，把文档知识库 + 多 LLM + Agent + MCP 工具打包进一个桌面/Docker 应用，无需拼装即得私有智能体 |
-| [nanobot](repos/nanobot.md) | 45.7k+ | 港大出品的极简个人 AI Agent，核心循环小到可阅读，支持 10+ IM 渠道 + Dream 记忆，每天多次迭代 |
+| [autogpt](repos/autogpt.md) | 187.4k+ | 2023 年引爆"自主 Agent"概念的元老级项目，如今演进为可视化搭建 + 托管运行的 Agent 平台，描述目标自动拆解执行 |
+| [lobehub](repos/lobehub.md) | 82.7k+ | 把自己当成"首席 Agent 运营官"，像招聘、编排员工一样组织一批 AI Agent 7×24 协同运转，前身是知名开源应用 Lobe Chat |
+| [deer-flow](repos/deer-flow.md) | 82.7k+ | 字节跳动出品的超长周期 SuperAgent，子智能体 + 沙箱 + 长期记忆驱动跨小时级别任务，曾登顶 GitHub Trending #1 |
+| [anything-llm](repos/anything-llm.md) | 66.2k+ | 一体化本地优先 AI 应用，把文档知识库 + 多 LLM + Agent + MCP 工具打包进一个桌面/Docker 应用，无需拼装即得私有智能体 |
+| [nanobot](repos/nanobot.md) | 48.4k+ | 港大出品的极简个人 AI Agent，核心循环小到可阅读，支持 10+ IM 渠道 + Dream 记忆，每天多次迭代 |
 | [agentgpt](repos/agentgpt.md) | 36.3k+ | 浏览器内零门槛启动的自主 Agent，输入目标自动拆解任务并循环执行，2023 年 Agent 热潮引爆者，理解 Agent Loop 的最佳入门项目 |
-| [astrbot](repos/astrbot.md) | 36.4k+ | 一站式 IM Agent 平台，把 LLM + Agent + 知识库 + MCP 接入 QQ/微信/飞书/钉钉/Telegram/Slack，1000+ 插件一键装，中文社区最活跃 |
-| [khoj](repos/khoj.md) | 35.8k+ | 隐私优先的可自托管 AI 第二大脑，搜索个人文档 + 网络问答 + 跨会话记忆，支持本地 LLM，Perplexity 的开源替代品 |
-| [gpt-researcher](repos/gpt-researcher.md) | 28.3k+ | 专为深度研究而生的自主 Agent，并行搜索多来源、消除偏见，自动生成带引用的长篇研究报告 |
-| [agenticseek](repos/agenticseek.md) | 26.6k+ | 完全本地运行的 Manus 替代品，零 API 费用，本地大模型驱动自主浏览网页、写代码、管理文件 |
-| [agent-zero](repos/agent-zero.md) | 18.4k+ | 给 Agent 一整套 Linux 系统，单容器含桌面 + 插件中枢，Agent 可现场写代码造工具，把电脑当作可编程通用能力平台 |
-| [eigent](repos/eigent.md) | 14.8k+ | CAMEL-AI 出品的开源 Cowork 桌面应用，本地部署一支多 Agent 员工团队并行处理任务，Claude Cowork / Codex 的免费本地替代品 |
+| [astrbot](repos/astrbot.md) | 40.7k+ | 一站式 IM Agent 平台，把 LLM + Agent + 知识库 + MCP 接入 QQ/微信/飞书/钉钉/Telegram/Slack，1000+ 插件一键装，中文社区最活跃 |
+| [khoj](repos/khoj.md) | 37.4k+ | 隐私优先的可自托管 AI 第二大脑，搜索个人文档 + 网络问答 + 跨会话记忆，支持本地 LLM，Perplexity 的开源替代品 |
+| [gpt-researcher](repos/gpt-researcher.md) | 29.5k+ | 专为深度研究而生的自主 Agent，并行搜索多来源、消除偏见，自动生成带引用的长篇研究报告 |
+| [agenticseek](repos/agenticseek.md) | 27.3k+ | 完全本地运行的 Manus 替代品，零 API 费用，本地大模型驱动自主浏览网页、写代码、管理文件 |
+| [agent-zero](repos/agent-zero.md) | 19.2k+ | 给 Agent 一整套 Linux 系统，单容器含桌面 + 插件中枢，Agent 可现场写代码造工具，把电脑当作可编程通用能力平台 |
+| [eigent](repos/eigent.md) | 15.3k+ | CAMEL-AI 出品的开源 Cowork 桌面应用，本地部署一支多 Agent 员工团队并行处理任务，Claude Cowork / Codex 的免费本地替代品 |
+| [cherry-studio](repos/cherry-studio.md) | 52k+ | 跨平台 AI 生产力桌面客户端，统一接入 300+ 模型与助手，内置自主 Agent + 知识库，个人 AI 工作台高人气之选 |
+| [TradingAgents](repos/trading-agents.md) | 107.7k+ | 多智能体 LLM 金融交易框架，分析师/研究员/交易员/风控分角色协作模拟投研决策全流程，量化 Agent 研究热门项目 |
 
 ## 编排框架 / 低代码平台
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
-| [langflow](repos/langflow.md) | 151.9k+ | 基于 LangChain 的拖拽式 AI Agent 工作流平台，Stars 最高的 Agent 可视化工具，从原型到生产一站式 |
-| [dify](repos/dify.md) | 149k+ | 生产级 AI 应用开发与运营平台，Prompt 调试 + RAG + Agent 编排 + 监控全覆盖，企业落地首选 |
-| [flowise](repos/flowise.md) | 54.7k+ | 最易上手的可视化 AI Agent 构建工具，100+ 节点拖拽搭建，30 分钟从零到部署 |
-| [fastgpt](repos/fastgpt.md) | 29k+ | 以知识库和 RAG 精度为核心的可视化 AI 工作流平台，多阶段混合检索 + Rerank + 可视化编排，中文社区最活跃的 RAG 平台 |
-| [haystack](repos/haystack.md) | 25.9k+ | deepset 出品的生产级 AI 编排框架，模块化 Pipeline 显式掌控检索/路由/记忆/生成，把 RAG 与 Agent 做成透明可追溯的工业级系统 |
-| [langgraph](repos/langgraph.md) | 37.4k+ | 用有向图描述 Agent 工作流，状态机驱动 + 原生持久化 + Human-in-the-Loop，构建生产级 Agent 系统的基础设施 |
-| [sim](repos/sim.md) | 29.1k+ | 可视化拖拽构建 AI Agent 工作流的开源平台，无需编码即可编排多 Agent 协作流程并一键部署 |
-| [oh-my-claudecode](repos/oh-my-claudecode.md) | 37.8k+ | 把 Claude Code 从单智能体变成多智能体平台，一句话自然语言启动 32 个专业 Agent 协作 |
-| [oh-my-codex](repos/oh-my-codex.md) | 32k+ | oh-my-claudecode 的 Codex 版，同一套方法论（deep-interview → plan → team/ralph）面向 OpenAI 用户 |
+| [langflow](repos/langflow.md) | 155k+ | 基于 LangChain 的拖拽式 AI Agent 工作流平台，Stars 最高的 Agent 可视化工具，从原型到生产一站式 |
+| [dify](repos/dify.md) | 156.5k+ | 生产级 AI 应用开发与运营平台，Prompt 调试 + RAG + Agent 编排 + 监控全覆盖，企业落地首选 |
+| [flowise](repos/flowise.md) | 55.5k+ | 最易上手的可视化 AI Agent 构建工具，100+ 节点拖拽搭建，30 分钟从零到部署 |
+| [fastgpt](repos/fastgpt.md) | 29.7k+ | 以知识库和 RAG 精度为核心的可视化 AI 工作流平台，多阶段混合检索 + Rerank + 可视化编排，中文社区最活跃的 RAG 平台 |
+| [haystack](repos/haystack.md) | 26.6k+ | deepset 出品的生产级 AI 编排框架，模块化 Pipeline 显式掌控检索/路由/记忆/生成，把 RAG 与 Agent 做成透明可追溯的工业级系统 |
+| [langgraph](repos/langgraph.md) | 42k+ | 用有向图描述 Agent 工作流，状态机驱动 + 原生持久化 + Human-in-the-Loop，构建生产级 Agent 系统的基础设施 |
+| [sim](repos/sim.md) | 29.7k+ | 可视化拖拽构建 AI Agent 工作流的开源平台，无需编码即可编排多 Agent 协作流程并一键部署 |
+| [oh-my-claudecode](repos/oh-my-claudecode.md) | 39.3k+ | 把 Claude Code 从单智能体变成多智能体平台，一句话自然语言启动 32 个专业 Agent 协作 |
+| [oh-my-codex](repos/oh-my-codex.md) | 33.3k+ | oh-my-claudecode 的 Codex 版，同一套方法论（deep-interview → plan → team/ralph）面向 OpenAI 用户 |
+| [activepieces](repos/activepieces.md) | 24.6k+ | 开源 AI 工作流自动化平台，内置约 400 个 MCP 服务器，拖拽编排 Agent + 工具调用，Zapier 的 AI 原生开源替代 |
 
 ## 应用生成 / CRUD 工具
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
-| [nocodb](repos/nocodb.md) | 64k+ | 把任意 SQL 数据库变成 Airtable 式可视化界面，零前端代码获得完整 CRUD UI + 自动生成 REST/GraphQL API |
-| [jeecgboot](repos/jeecgboot.md) | 47.1k+ | 国内最完整的 AI 低代码企业系统生成平台，一句话描述即可生成前后端完整 CRUD 系统，Spring Boot + Vue3 技术栈 |
-| [appsmith](repos/appsmith.md) | 40.4k+ | 连接 25+ 数据库拖拽构建管理后台的开源平台，内置 AI 辅助生成查询和逻辑，企业内部工具首选 |
-| [tooljet](repos/tooljet.md) | 38.2k+ | AI 驱动的内部工具生成器，自然语言描述需求直接生成完整应用，内置工作流自动化引擎 |
-| [refine](repos/refine.md) | 35.3k+ | 专为 CRUD 管理后台设计的 React 框架，Headless 架构对接任意 UI 库和后端，AI 生成代码结构化可维护 |
-| [bolt-diy](repos/bolt-diy.md) | 19.6k+ | 浏览器内零配置 AI 全栈代码生成器，描述需求自动生成可运行应用，支持任意 LLM，bolt.new 的开源社区版 |
+| [nocodb](repos/nocodb.md) | 65k+ | 把任意 SQL 数据库变成 Airtable 式可视化界面，零前端代码获得完整 CRUD UI + 自动生成 REST/GraphQL API |
+| [jeecgboot](repos/jeecgboot.md) | 47.9k+ | 国内最完整的 AI 低代码企业系统生成平台，一句话描述即可生成前后端完整 CRUD 系统，Spring Boot + Vue3 技术栈 |
+| [appsmith](repos/appsmith.md) | 40.9k+ | 连接 25+ 数据库拖拽构建管理后台的开源平台，内置 AI 辅助生成查询和逻辑，企业内部工具首选 |
+| [tooljet](repos/tooljet.md) | 40.9k+ | AI 驱动的内部工具生成器，自然语言描述需求直接生成完整应用，内置工作流自动化引擎 |
+| [refine](repos/refine.md) | 35.7k+ | 专为 CRUD 管理后台设计的 React 框架，Headless 架构对接任意 UI 库和后端，AI 生成代码结构化可维护 |
+| [bolt-diy](repos/bolt-diy.md) | 19.9k+ | 浏览器内零配置 AI 全栈代码生成器，描述需求自动生成可运行应用，支持任意 LLM，bolt.new 的开源社区版 |
 
 ## 编码 Agent
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
-| [pi](repos/pi.md) | 84.3k+ | 不做"又一个编码 Agent"，而是把 Agent Loop、多模型统一 API 和终端 UI 拆成独立可复用的包，自建 Coding Agent 直接拿工具箱 |
-| [gemini-cli](repos/gemini-cli.md) | 106k+ | Google 官方开源终端 AI Agent，100 万 token 超长上下文 + 个人免费，Claude Code 的直接竞品 |
-| [openhands](repos/openhands.md) | 81k+ | 最强开源 AI 软件工程师，能独立完成写代码/跑测试/修 Bug/操作终端全流程，Devin 最强开源替代 |
-| [open-interpreter](repos/open-interpreter.md) | 67.7k+ | 老牌"终端 ChatGPT 解释器"重生，Rust 重写核心 Harness 专为开放权重模型（Kimi K3 等）优化，低成本获得 Codex 级体验 |
-| [cline](repos/cline.md) | 64.7k+ | 既能装进 VS Code 又能跑在终端的开源编码 Agent，Plan/Act 双模式每步改动人工确认，安全透明，Cursor/Copilot 的开源竞品 |
-| [goose](repos/goose.md) | 51.3k+ | 能真正动手安装依赖、执行命令、编辑代码的可扩展 AI Agent，超越"代码补全"，Rust 实现、模型无关、原生 MCP 扩展 |
-| [kilocode](repos/kilocode.md) | 26.3k+ | VS Code/JetBrains/CLI 全覆盖的开源编码 Agent，500+ 模型任选、任务中途可切换，按模型商原价零加价计费 |
-| [qwen-code](repos/qwen-code.md) | 26.8k+ | 阿里 Qwen 官方终端编码 Agent，框架与模型同源演进不锁厂商，原生打通 OpenAI/Anthropic/Gemini/Qwen 及本地模型 |
-| [swe-agent](repos/swe-agent.md) | 19.8k+ | 普林斯顿出品的学术级 Coding Agent，输入 GitHub Issue 自动修复 Bug 提交 PR，SWE-bench 刷榜经典，NeurIPS 2024 |
-| [plandex](repos/plandex.md) | 15.5k+ | 专为大型项目设计的终端 Coding Agent，沙箱保护 + 版本回滚让 Agent 大胆修改复杂代码库 |
-| [opencode](repos/opencode.md) | 13.5k+ | Go 实现的极速终端 Coding Agent，单二进制无依赖，模型无关，启动秒级响应 |
-| [open-swe](repos/open-swe.md) | 10.3k+ | LangChain 开源的企业内部 Coding Agent——复刻 Stripe/Ramp 内部架构，Slack/Linear 触发 + 云沙箱 + 自动开 PR |
+| [pi](repos/pi.md) | 107.4k+ | 不做"又一个编码 Agent"，而是把 Agent Loop、多模型统一 API 和终端 UI 拆成独立可复用的包，自建 Coding Agent 直接拿工具箱 |
+| [gemini-cli](repos/gemini-cli.md) | 107.1k+ | Google 官方开源终端 AI Agent，100 万 token 超长上下文 + 个人免费，Claude Code 的直接竞品 |
+| [openhands](repos/openhands.md) | 88.6k+ | 最强开源 AI 软件工程师，能独立完成写代码/跑测试/修 Bug/操作终端全流程，Devin 最强开源替代 |
+| [open-interpreter](repos/open-interpreter.md) | 68.4k+ | 老牌"终端 ChatGPT 解释器"重生，Rust 重写核心 Harness 专为开放权重模型（Kimi K3 等）优化，低成本获得 Codex 级体验 |
+| [cline](repos/cline.md) | 68.8k+ | 既能装进 VS Code 又能跑在终端的开源编码 Agent，Plan/Act 双模式每步改动人工确认，安全透明，Cursor/Copilot 的开源竞品 |
+| [goose](repos/goose.md) | 54.5k+ | 能真正动手安装依赖、执行命令、编辑代码的可扩展 AI Agent，超越"代码补全"，Rust 实现、模型无关、原生 MCP 扩展 |
+| [kilocode](repos/kilocode.md) | 27.4k+ | VS Code/JetBrains/CLI 全覆盖的开源编码 Agent，500+ 模型任选、任务中途可切换，按模型商原价零加价计费 |
+| [qwen-code](repos/qwen-code.md) | 28k+ | 阿里 Qwen 官方终端编码 Agent，框架与模型同源演进不锁厂商，原生打通 OpenAI/Anthropic/Gemini/Qwen 及本地模型 |
+| [swe-agent](repos/swe-agent.md) | 20.4k+ | 普林斯顿出品的学术级 Coding Agent，输入 GitHub Issue 自动修复 Bug 提交 PR，SWE-bench 刷榜经典，NeurIPS 2024 |
+| [plandex](repos/plandex.md) | 15.6k+ | 专为大型项目设计的终端 Coding Agent，沙箱保护 + 版本回滚让 Agent 大胆修改复杂代码库 |
+| [opencode](repos/opencode.md) | 13.8k+ | Go 实现的极速终端 Coding Agent，单二进制无依赖，模型无关，启动秒级响应 |
+| [open-swe](repos/open-swe.md) | 10.7k+ | LangChain 开源的企业内部 Coding Agent——复刻 Stripe/Ramp 内部架构，Slack/Linear 触发 + 云沙箱 + 自动开 PR |
+| [continue](repos/continue.md) | 36k+ | VS Code / JetBrains 开源编码 Agent，模型无关的补全 + 对话 + Agent 模式，规则与上下文可自定义，Copilot 的开源竞品 |
 
 ## Agent 基础设施
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
-| [firecrawl](repos/firecrawl.md) | 151.7k+ | 专为 AI Agent 设计的网页抓取与清洗 API，将任意网页转为干净 Markdown，一行代码让 Agent 获取实时网络知识 |
-| [browser-use](repos/browser-use.md) | 105k+ | 让 AI Agent 真正"看懂"并操控浏览器，视觉 + DOM 双通道感知，Stars 最高的 Agent 浏览器自动化库 |
-| [ragflow](repos/ragflow.md) | 85.2k+ | 基于深度文档理解的企业级 RAG 引擎，精准解析 PDF 表格/图表/复杂排版，每个答案精确溯源原文 |
-| [daytona](repos/daytona.md) | 71.8k+ | 给 AI 生成代码提供安全弹性的运行沙箱，毫秒级启动隔离环境，让 Coding Agent 放心执行自己写的代码而不伤宿主机 |
-| [mem0](repos/mem0.md) | 61k+ | AI Agent 的通用记忆层，自动提取存储跨会话记忆，让任何 Agent 记住用户偏好和历史上下文，5 行代码集成 |
-| [letta](repos/letta.md) | 23.8k+ | 有状态 Agent 运行时平台（前身 MemGPT），工作记忆 + 归档记忆分层架构让 Agent 自主管理上下文，NeurIPS 2023 论文出品 |
-| [ui-tars-desktop](repos/ui-tars-desktop.md) | 38k+ | 字节跳动出品的多模态 GUI Agent，直接"看"屏幕操控任意桌面/网页应用，无需 API，像人一样使用电脑 |
-| [composio](repos/composio.md) | 29.3k+ | 给 AI Agent 提供 1000+ 开箱即用工具的集成平台，统一 OAuth 认证 + 上下文管理，一行代码接入 GitHub/Slack/Notion |
-| [openviking](repos/openviking.md) | 26.8k+ | 字节火山引擎出品的 Agent Context 数据库，文件系统范式统一管理记忆/资源/Skill，RAG 可观测可调试 |
-| [memvid](repos/memvid.md) | 15.9k+ | 单文件替代 RAG 管道，Rust 实现，0.025ms 检索延迟，给 Agent 提供无需数据库的可移植长期记忆 |
-| [pipecat](repos/pipecat.md) | 15.4k+ | Daily 出品的实时语音与多模态 Agent 框架，管线范式把 STT+LLM+TTS 串成低延迟对话流，传输层可选、原生支持打断 |
-| [livekit-agents](repos/livekit-agents.md) | 11.4k+ | 构建实时语音 AI Agent 的框架，把 STT+LLM+TTS 拼成低延迟对话管线，跑在 WebRTC 实时通信底座上，做"能打电话的 Agent"首选 |
+| [firecrawl](repos/firecrawl.md) | 182.4k+ | 专为 AI Agent 设计的网页抓取与清洗 API，将任意网页转为干净 Markdown，一行代码让 Agent 获取实时网络知识 |
+| [browser-use](repos/browser-use.md) | 115.4k+ | 让 AI Agent 真正"看懂"并操控浏览器，视觉 + DOM 双通道感知，Stars 最高的 Agent 浏览器自动化库 |
+| [ragflow](repos/ragflow.md) | 91k+ | 基于深度文档理解的企业级 RAG 引擎，精准解析 PDF 表格/图表/复杂排版，每个答案精确溯源原文 |
+| [daytona](repos/daytona.md) | 71.7k+ | 给 AI 生成代码提供安全弹性的运行沙箱，毫秒级启动隔离环境，让 Coding Agent 放心执行自己写的代码而不伤宿主机 |
+| [mem0](repos/mem0.md) | 65.7k+ | AI Agent 的通用记忆层，自动提取存储跨会话记忆，让任何 Agent 记住用户偏好和历史上下文，5 行代码集成 |
+| [letta](repos/letta.md) | 24.8k+ | 有状态 Agent 运行时平台（前身 MemGPT），工作记忆 + 归档记忆分层架构让 Agent 自主管理上下文，NeurIPS 2023 论文出品 |
+| [ui-tars-desktop](repos/ui-tars-desktop.md) | 39.1k+ | 字节跳动出品的多模态 GUI Agent，直接"看"屏幕操控任意桌面/网页应用，无需 API，像人一样使用电脑 |
+| [composio](repos/composio.md) | 30.3k+ | 给 AI Agent 提供 1000+ 开箱即用工具的集成平台，统一 OAuth 认证 + 上下文管理，一行代码接入 GitHub/Slack/Notion |
+| [openviking](repos/openviking.md) | 38.1k+ | 字节火山引擎出品的 Agent Context 数据库，文件系统范式统一管理记忆/资源/Skill，RAG 可观测可调试 |
+| [memvid](repos/memvid.md) | 16.5k+ | 单文件替代 RAG 管道，Rust 实现，0.025ms 检索延迟，给 Agent 提供无需数据库的可移植长期记忆 |
+| [pipecat](repos/pipecat.md) | 15.7k+ | Daily 出品的实时语音与多模态 Agent 框架，管线范式把 STT+LLM+TTS 串成低延迟对话流，传输层可选、原生支持打断 |
+| [livekit-agents](repos/livekit-agents.md) | 14.3k+ | 构建实时语音 AI Agent 的框架，把 STT+LLM+TTS 拼成低延迟对话管线，跑在 WebRTC 实时通信底座上，做"能打电话的 Agent"首选 |
+| [serena](repos/serena.md) | 29.6k+ | 面向编码的 MCP 工具箱，基于 LSP 提供符号级语义检索与编辑，给任意 Agent 装上“IDE 级”代码理解能力 |
+| [cua](repos/cua.md) | 24.6k+ | 计算机使用（Computer-Use）Agent 基础设施，跨系统驱动 + 沙箱集群 + 评测基准，让 Agent 像人一样操控整台电脑 |
 
 ## 最佳实践 / 学习资源
 
 | 项目 | Stars | 一句话 |
 |------|-------|--------|
-| [12-factor-agents](repos/12-factor-agents.md) | 24.3k+ | 仿照《12-Factor App》写给 LLM 工程师的十二条军规，教你把 Agent 从 Demo 变成生产级软件 |
-| [awesome-llm-apps](repos/awesome-llm-apps.md) | 122.3k+ | 100+ 个能直接跑起来的 AI Agent 与 RAG 应用示例合集，clone 下来就能改就能上线，学 Agent 落地最快的案例库 |
-| [claude-howto](repos/claude-howto.md) | 39.9k+ | 10 个模块带你从零到精通 Claude Code，每个特性配可直接 copy 用的模板 |
-| [everything-claude-code](repos/everything-claude-code.md) | 230.2k+ | 把 10 个月产品开发经验打包成可即装即用的 Claude Code 配置，跨会话记忆 + 安全审计开箱即得 |
-| [system_prompts_leaks](repos/system_prompts_leaks.md) | 58.2k+ | 想知道 Claude/GPT/Gemini 背后在偷偷说什么？这里全有 |
-| [ai-agents-for-beginners](repos/ai-agents-for-beginners.md) | 74.3k+ | 微软官方 18 课 AI Agent 入门课程，从零讲到能动手搭建，每课配可运行代码，Star 最高的 Agent 教学资源之一 |
-| [GenAI_Agents](repos/genai-agents.md) | 24.2k+ | 50+ 个从入门到多智能体的 GenAI Agent 技术教程与实现合集，每种技术都有可跑的 Notebook，按"技术点"查漏补缺的案例库 |
+| [12-factor-agents](repos/12-factor-agents.md) | 26.3k+ | 仿照《12-Factor App》写给 LLM 工程师的十二条军规，教你把 Agent 从 Demo 变成生产级软件 |
+| [awesome-llm-apps](repos/awesome-llm-apps.md) | 139k+ | 100+ 个能直接跑起来的 AI Agent 与 RAG 应用示例合集，clone 下来就能改就能上线，学 Agent 落地最快的案例库 |
+| [claude-howto](repos/claude-howto.md) | 41.6k+ | 10 个模块带你从零到精通 Claude Code，每个特性配可直接 copy 用的模板 |
+| [everything-claude-code](repos/everything-claude-code.md) | 263.1k+ | 把 10 个月产品开发经验打包成可即装即用的 Claude Code 配置，跨会话记忆 + 安全审计开箱即得 |
+| [system_prompts_leaks](repos/system_prompts_leaks.md) | 67.7k+ | 想知道 Claude/GPT/Gemini 背后在偷偷说什么？这里全有 |
+| [ai-agents-for-beginners](repos/ai-agents-for-beginners.md) | 75.2k+ | 微软官方 18 课 AI Agent 入门课程，从零讲到能动手搭建，每课配可运行代码，Star 最高的 Agent 教学资源之一 |
+| [GenAI_Agents](repos/genai-agents.md) | 24.3k+ | 50+ 个从入门到多智能体的 GenAI Agent 技术教程与实现合集，每种技术都有可跑的 Notebook，按"技术点"查漏补缺的案例库 |
+| [awesome-ai-agents](repos/awesome-ai-agents.md) | 30.1k+ | E2B 维护的自主 AI Agent 权威清单，分门别类收录框架、平台与开源项目，速览 Agent 生态版图的导航图 |
 
 ---
 
