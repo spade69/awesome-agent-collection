@@ -3,6 +3,7 @@
 **仓库**：[daytonaio/daytona](https://github.com/daytonaio/daytona)
 **分类**：Agent 基础设施 / 代码沙箱
 **Stars**：71.8k+
+**状态**：⚠️ 已归档（GitHub 只读，最后更新于 2026-07，不再维护）
 **Forks**：5,600+
 **协议**：AGPL-3.0
 **语言**：TypeScript / Go

@@ -3,6 +3,7 @@
 **仓库**：[reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 **分类**：SuperAgent / 浏览器自主 Agent
 **Stars**：36.3k+
+**状态**：⚠️ 已归档（GitHub 只读，最后更新于 2025-04，不再维护）
 **Forks**：9,300+
 **协议**：GPL-3.0
 **语言**：TypeScript
