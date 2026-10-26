@@ -2,7 +2,7 @@
 
 **仓库**：[lobehub/lobehub](https://github.com/lobehub/lobehub)
 **分类**：SuperAgent / 长周期执行
-**Stars**：79.9k+
+**Stars**：83.5k+
 **Forks**：15,500+
 **协议**：其他（自定义，商用需查阅）
 **语言**：TypeScript

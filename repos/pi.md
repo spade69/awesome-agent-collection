@@ -2,7 +2,7 @@
 
 **仓库**：[earendil-works/pi](https://github.com/earendil-works/pi)
 **分类**：编码 Agent
-**Stars**：84.3k+
+**Stars**：117.9k+
 **Forks**：10,400+
 **协议**：MIT
 **语言**：TypeScript

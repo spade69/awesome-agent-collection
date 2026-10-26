@@ -2,7 +2,7 @@
 
 **仓库**：[Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek)
 **分类**：SuperAgent / 本地自主执行
-**Stars**：26.6k+
+**Stars**：27.5k+
 **Forks**：2,800+
 **协议**：GPL-3.0
 **语言**：Python

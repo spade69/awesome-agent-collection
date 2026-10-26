@@ -2,7 +2,7 @@
 
 **仓库**：[eigent-ai/eigent](https://github.com/eigent-ai/eigent)
 **分类**：SuperAgent / 长周期执行
-**Stars**：14.8k+
+**Stars**：15.7k+
 **Forks**：1,700+
 **协议**：Apache 2.0
 **语言**：TypeScript / Python

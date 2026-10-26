@@ -2,7 +2,7 @@
 
 **仓库**：[langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 **分类**：Agent 框架
-**Stars**：141.9k+
+**Stars**：148.5k+
 **Forks**：23,500+
 **协议**：MIT
 **语言**：Python

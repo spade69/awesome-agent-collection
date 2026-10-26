@@ -2,7 +2,7 @@
 
 **仓库**：[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
 **分类**：Agent 基础设施
-**Stars**：43.9k+
+**Stars**：44.6k+
 **Forks**：2,900+
 **协议**：Apache-2.0
 **语言**：Rust

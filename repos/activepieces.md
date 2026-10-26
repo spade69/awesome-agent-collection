@@ -2,7 +2,7 @@
 
 **仓库**：[activepieces/activepieces](https://github.com/activepieces/activepieces)
 **分类**：编排框架 / 低代码平台
-**Stars**：24.6k+
+**Stars**：25.2k+
 **Forks**：4,200+
 **协议**：MIT（EE 目录另有商业授权）
 **语言**：TypeScript

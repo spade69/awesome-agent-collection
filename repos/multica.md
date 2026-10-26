@@ -2,7 +2,7 @@
 
 **仓库**：[multica-ai/multica](https://github.com/multica-ai/multica)
 **分类**：编排框架
-**Stars**：52.7k+
+**Stars**：53.8k+
 **Forks**：6,800+
 **协议**：Source-available（自定义协议，GitHub 未识别）
 **语言**：Go

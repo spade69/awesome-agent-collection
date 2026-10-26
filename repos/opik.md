@@ -2,7 +2,7 @@
 
 **仓库**：[comet-ml/opik](https://github.com/comet-ml/opik)
 **分类**：AgentOps / 可观测与评测
-**Stars**：22.6k+
+**Stars**：22.9k+
 **Forks**：1,800+
 **协议**：Apache-2.0
 **语言**：Python

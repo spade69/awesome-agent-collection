@@ -2,7 +2,7 @@
 
 **仓库**：[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)
 **分类**：最佳实践 / 学习资源
-**Stars**：74.3k+
+**Stars**：77.9k+
 **Forks**：24,500+
 **协议**：MIT
 **语言**：Jupyter Notebook

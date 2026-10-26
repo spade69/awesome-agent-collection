@@ -2,7 +2,7 @@
 
 **仓库**：[agno-agi/agno](https://github.com/agno-agi/agno)
 **分类**：Agent 框架
-**Stars**：42.3k+
+**Stars**：42.9k+
 **Forks**：6,000+
 **协议**：Apache-2.0
 **语言**：Python

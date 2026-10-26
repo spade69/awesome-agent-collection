@@ -2,7 +2,7 @@
 
 **仓库**：[aaif-goose/goose](https://github.com/aaif-goose/goose)
 **分类**：编码 Agent
-**Stars**：51.3k+
+**Stars**：55.7k+
 **Forks**：5,600+
 **协议**：Apache-2.0
 **语言**：Rust

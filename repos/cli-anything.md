@@ -2,7 +2,7 @@
 
 **仓库**：[HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 **分类**：Agent 基础设施
-**Stars**：52.1k+
+**Stars**：57.2k+
 **Forks**：4,700+
 **协议**：Apache-2.0
 **语言**：Python

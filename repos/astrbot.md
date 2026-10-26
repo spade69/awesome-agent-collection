@@ -2,7 +2,7 @@
 
 **仓库**：[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)
 **分类**：SuperAgent / IM 聊天机器人平台
-**Stars**：36.4k+
+**Stars**：43.6k+
 **Forks**：4,000+
 **协议**：AGPL-3.0
 **语言**：Python 3.12+

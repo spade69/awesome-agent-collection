@@ -2,7 +2,7 @@
 
 **仓库**：[pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat)
 **分类**：Agent 基础设施 / 实时语音
-**Stars**：15.4k+
+**Stars**：16.8k+
 **Forks**：2,600+
 **协议**：BSD-2-Clause
 **语言**：Python

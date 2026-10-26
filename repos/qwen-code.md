@@ -2,7 +2,7 @@
 
 **仓库**：[QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
 **分类**：编码 Agent
-**Stars**：26.8k+
+**Stars**：28.7k+
 **Forks**：2,800+
 **协议**：Apache 2.0
 **语言**：TypeScript

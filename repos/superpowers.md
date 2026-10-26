@@ -2,7 +2,7 @@
 
 **仓库**：[obra/superpowers](https://github.com/obra/superpowers)
 **分类**：最佳实践 / 学习资源
-**Stars**：298.9k+
+**Stars**：305.3k+
 **Forks**：26,000+
 **协议**：MIT
 **语言**：Shell

@@ -2,7 +2,7 @@
 
 **仓库**：[Arize-ai/phoenix](https://github.com/Arize-ai/phoenix)
 **分类**：AgentOps / 可观测与评测
-**Stars**：11.8k+
+**Stars**：12k+
 **Forks**：1,200+
 **协议**：Elastic License 2.0（ELv2）
 **语言**：Python

@@ -2,7 +2,7 @@
 
 **仓库**：[vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
 **分类**：Agent 基础设施
-**Stars**：49.5k+
+**Stars**：53.9k+
 **Forks**：6,000+
 **协议**：MIT
 **语言**：Python

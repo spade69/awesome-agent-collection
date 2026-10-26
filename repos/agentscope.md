@@ -2,7 +2,7 @@
 
 **仓库**：[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)
 **分类**：Agent 框架
-**Stars**：28.6k+
+**Stars**：34.1k+
 **Forks**：3,300+
 **协议**：Apache 2.0
 **语言**：Python

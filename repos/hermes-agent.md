@@ -2,7 +2,7 @@
 
 **仓库**：[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 **分类**：Agent 框架 / 自我进化
-**Stars**：215.7k+
+**Stars**：257.2k+
 **Forks**：3,800+
 **贡献者**：302+
 **协议**：MIT

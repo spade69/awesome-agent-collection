@@ -2,7 +2,7 @@
 
 **仓库**：[opencode-ai/opencode](https://github.com/opencode-ai/opencode)
 **分类**：编码 Agent / 终端工具
-**Stars**：13.5k+
+**Stars**：13.8k+
 **状态**：⚠️ 已归档（GitHub 只读，最后更新于 2025-09，不再维护）
 **Forks**：600+
 **协议**：MIT

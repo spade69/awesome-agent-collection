@@ -2,7 +2,7 @@
 
 **仓库**：[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
 **分类**：SuperAgent / 多智能体（金融）
-**Stars**：107.7k+
+**Stars**：115.1k+
 **Forks**：20,600+
 **协议**：Apache-2.0
 **语言**：Python

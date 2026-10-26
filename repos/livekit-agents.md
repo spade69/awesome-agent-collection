@@ -2,7 +2,7 @@
 
 **仓库**：[livekit/agents](https://github.com/livekit/agents)
 **分类**：Agent 基础设施
-**Stars**：11.4k+
+**Stars**：14.9k+
 **Forks**：3,300+
 **协议**：Apache-2.0
 **语言**：Python

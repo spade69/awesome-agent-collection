@@ -2,7 +2,7 @@
 
 **仓库**：[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 **分类**：SuperAgent / 桌面客户端
-**Stars**：52k+
+**Stars**：53k+
 **Forks**：5,000+
 **协议**：AGPL-3.0
 **语言**：TypeScript

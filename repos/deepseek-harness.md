@@ -2,7 +2,7 @@
 
 **仓库**：[deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 **分类**：编码 Agent
-**Stars**：249.5k+
+**Stars**：262k+
 **Forks**：30,000+
 **协议**：MIT
 **语言**：TypeScript

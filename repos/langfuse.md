@@ -2,7 +2,7 @@
 
 **仓库**：[langfuse/langfuse](https://github.com/langfuse/langfuse)
 **分类**：AgentOps / 可观测与评测
-**Stars**：35.8k+
+**Stars**：36.5k+
 **Forks**：3,900+
 **协议**：MIT（ee/ 目录下企业功能另有授权）
 **语言**：TypeScript

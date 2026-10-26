@@ -2,7 +2,7 @@
 
 **仓库**：[FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 **分类**：Agent 编排 / 可视化低代码平台
-**Stars**：54.7k+
+**Stars**：55.5k+
 **状态**：⚠️ 已归档（GitHub 只读，最后更新于 2026-08，不再维护）
 **Forks**：27,000+
 **协议**：Apache-2.0

@@ -2,7 +2,7 @@
 
 **仓库**：[e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
 **分类**：最佳实践 / 学习资源
-**Stars**：30.1k+
+**Stars**：30.6k+
 **Forks**：3,500+
 **协议**：CC BY-NC-SA 4.0
 **语言**：Markdown / 文档

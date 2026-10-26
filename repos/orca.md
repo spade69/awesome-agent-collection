@@ -2,7 +2,7 @@
 
 **仓库**：[stablyai/orca](https://github.com/stablyai/orca)
 **分类**：编码 Agent
-**Stars**：92.1k+
+**Stars**：106.4k+
 **Forks**：5,800+
 **协议**：MIT
 **语言**：TypeScript

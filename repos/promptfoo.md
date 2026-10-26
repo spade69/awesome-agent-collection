@@ -2,7 +2,7 @@
 
 **仓库**：[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 **分类**：AgentOps / 可观测与评测
-**Stars**：26.0k+
+**Stars**：26.4k+
 **Forks**：2,400+
 **协议**：MIT
 **语言**：TypeScript

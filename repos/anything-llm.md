@@ -2,7 +2,7 @@
 
 **仓库**：[Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)
 **分类**：SuperAgent / 本地全能应用
-**Stars**：65.8k+
+**Stars**：67.6k+
 **Forks**：7,200+
 **协议**：MIT
 **语言**：JavaScript

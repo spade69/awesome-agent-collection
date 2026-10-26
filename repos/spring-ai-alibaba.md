@@ -2,7 +2,7 @@
 
 **仓库**：[alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
 **分类**：Agent 框架 / Java 生态
-**Stars**：10.8k+
+**Stars**：11.1k+
 **Forks**：2,400+
 **协议**：Apache-2.0
 **语言**：Java

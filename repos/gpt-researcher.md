@@ -2,7 +2,7 @@
 
 **仓库**：[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)
 **分类**：SuperAgent / 深度研究
-**Stars**：28.3k+
+**Stars**：30.3k+
 **Forks**：3,600+
 **协议**：Apache-2.0
 **语言**：Python

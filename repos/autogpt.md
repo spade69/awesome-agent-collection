@@ -2,7 +2,7 @@
 
 **仓库**：[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
 **分类**：SuperAgent / 长周期执行
-**Stars**：185.8k+
+**Stars**：187.8k+
 **Forks**：46,000+
 **协议**：MIT（核心）+ Polyform Shield（`autogpt_platform` 部分）
 **语言**：Python / TypeScript

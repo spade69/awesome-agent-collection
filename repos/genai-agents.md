@@ -2,7 +2,7 @@
 
 **仓库**：[NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents)
 **分类**：最佳实践 / 学习资源
-**Stars**：24.2k+
+**Stars**：24.7k+
 **Forks**：4,000+
 **协议**：自定义（见仓库 LICENSE）
 **语言**：Jupyter Notebook

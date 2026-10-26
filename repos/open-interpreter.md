@@ -2,7 +2,7 @@
 
 **仓库**：[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
 **分类**：编码 Agent
-**Stars**：67.7k+
+**Stars**：68.7k+
 **Forks**：5,800+
 **协议**：Apache 2.0
 **语言**：Rust（Kimi K3 harness）+ Python

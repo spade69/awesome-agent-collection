@@ -2,7 +2,7 @@
 
 **仓库**：[oraios/serena](https://github.com/oraios/serena)
 **分类**：Agent 基础设施 / 编码工具
-**Stars**：29.6k+
+**Stars**：30.7k+
 **Forks**：2,000+
 **协议**：MIT（分组件授权，核心 MIT）
 **语言**：Python

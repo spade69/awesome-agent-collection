@@ -2,7 +2,7 @@
 
 **仓库**：[continuedev/continue](https://github.com/continuedev/continue)
 **分类**：编码 Agent
-**Stars**：36k+
+**Stars**：36.3k+
 **Forks**：5,400+
 **协议**：Apache-2.0
 **语言**：TypeScript

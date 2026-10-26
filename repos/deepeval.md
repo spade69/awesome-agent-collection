@@ -2,7 +2,7 @@
 
 **仓库**：[confident-ai/deepeval](https://github.com/confident-ai/deepeval)
 **分类**：AgentOps / 可观测与评测
-**Stars**：18.9k+
+**Stars**：19.1k+
 **Forks**：2,000+
 **协议**：Apache-2.0
 **语言**：Python

@@ -2,7 +2,7 @@
 
 **仓库**：[mlflow/mlflow](https://github.com/mlflow/mlflow)
 **分类**：AgentOps / 可观测与评测
-**Stars**：28.4k+
+**Stars**：28.5k+
 **Forks**：6,400+
 **协议**：Apache-2.0
 **语言**：Python

@@ -2,7 +2,7 @@
 
 **仓库**：[trycua/cua](https://github.com/trycua/cua)
 **分类**：Agent 基础设施 / Computer-Use
-**Stars**：24.6k+
+**Stars**：31k+
 **Forks**：1,700+
 **协议**：MIT
 **语言**：Python / HTML

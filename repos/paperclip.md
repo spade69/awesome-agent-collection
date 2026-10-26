@@ -2,7 +2,7 @@
 
 **仓库**：[paperclipai/paperclip](https://github.com/paperclipai/paperclip)
 **分类**：编排框架 / 低代码平台
-**Stars**：101.9k+
+**Stars**：107.4k+
 **Forks**：17,000+
 **协议**：MIT
 **语言**：TypeScript

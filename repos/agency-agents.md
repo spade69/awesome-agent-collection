@@ -2,7 +2,7 @@
 
 **仓库**：[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 **分类**：最佳实践 / 学习资源
-**Stars**：160.0k+
+**Stars**：164.1k+
 **Forks**：25,800+
 **协议**：MIT
 **语言**：Shell
